@@ -1,2 +1,2 @@
 # CODSOFT
-Hello everyone, here i am attached CodSoft internship tasks. 
+Hello everyone! I am Karthick V, here i am attached CodSoft internship tasks. 
